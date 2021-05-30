@@ -73,3 +73,6 @@ If for some reason you need to recompile or modify the smc binary, its
 source code was included in the archive beside this script; simply cd to
 smc-command and type "make" to build. You'll need the Xcode command-line
 tools (and should be prompted to install them if you don't have them.)
+
+If this script is helpful to you, please consider a one-time or recurring
+donation through the support links found on jodybruchon.com
